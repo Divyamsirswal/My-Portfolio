@@ -1,2 +1,6 @@
+<span style="color: blue">DIVYAM SIRSWAL</span>
 # My-Portfolio
-This is my portfolio made with pure HTML and CSS and in Future may be i will update some stuff to it.
+
+```text
+This is Made in Complete - HTML and CSS
+```
